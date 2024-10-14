@@ -1,0 +1,3 @@
+Banking Transaction and E-Commerce Order simulation explanation:
+1) I performed a simulation of banking transactions using a large dataset that I randomly generated. Distribute the transactions across multiple data nodes and implement data replication using HDFS.
+2) In the second part of the code, I simulated an e-commerce order processing system using a larger dataset, generated randomly, to manage and distribute customer orders across multiple data nodes, also using HDFS.
